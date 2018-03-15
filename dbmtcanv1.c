@@ -39,7 +39,7 @@ int main(int argc, char *argv[]){
 		{ //if error appending
                         perror("File could not opened for writing:");
                         exit(1);
-                }
+                }//df
 	}
 	check = datagrabber(inPtr,memory);
 	if (check == tharg)
