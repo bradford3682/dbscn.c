@@ -114,7 +114,7 @@ int datagrabber(FILE *fptr, double *storage)
         }
 	return i;
 }
-
+//revision 1
 /*
 void threadtest(void)
 {
