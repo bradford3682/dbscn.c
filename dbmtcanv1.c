@@ -17,7 +17,7 @@ int main(int argc, char *argv[]){
         int check,i,G;
 	int tharg;
 	tharg= atoi(argv[3]);
-
+        int temp; //revision 2
 	double EPSmin=0, memory[tharg];
 	printf("arg3= %d\n",tharg);
         if(argc!=4)
