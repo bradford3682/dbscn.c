@@ -9,7 +9,7 @@
 
 int datagrabber(FILE *fptr, double *storage);
 void scann(FILE *fiptr, double *storage2, int epsmin,int sizes);
-
+//revision 4
  
 int main(int argc, char *argv[]){
         FILE *inPtr;    //pointer for file that is read from
