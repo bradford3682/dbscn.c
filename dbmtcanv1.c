@@ -52,7 +52,7 @@ int main(int argc, char *argv[]){
 		printf("check < tharg G= %d\n",G);
 	}
 	else
-	{
+	d
 		printf("The sky is falling\n"); //works without brackets
 	}
 	printf("check = %d \n",check);
@@ -63,7 +63,7 @@ int main(int argc, char *argv[]){
 	printf("memory[1]= %lf\n",memory[1]);
 	scann(outPtr,&memory[0],EPSmin,check);		
 
-	
+	// just double checking
 /*
 	double x,y,x2,y2,distance,z;
 	x=memory[0];
