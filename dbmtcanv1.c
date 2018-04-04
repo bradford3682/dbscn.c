@@ -1,7 +1,7 @@
 //Garrett Poppe
 //DBMTCAN Density Based Multi Threaded Clustering Algorithm with Noise
 //Dominates on any multicore machine
-
+// last two edits
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
