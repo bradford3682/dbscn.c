@@ -8,7 +8,7 @@
 #include <pthread.h>
 // need anything else here?
 //int a[]; make a global array?
-
+// need a #define
 int datagrabber(FILE *fptr, double *storage);
 void scann(FILE *fiptr, double *storage2, int epsmin,int sizes);
 //revision 4
