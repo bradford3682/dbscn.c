@@ -54,9 +54,9 @@ int main(int argc, char *argv[]){
 		printf("check < tharg G= %d\n",G);
 	}
 	else
-	d
+
 		printf("The sky is falling\n"); //works without brackets
-	}
+	
 	printf("check = %d \n",check);
 	printf("tharg = %d \n",tharg);
 
