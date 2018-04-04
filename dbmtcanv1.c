@@ -7,6 +7,7 @@
 #include <math.h>
 #include <pthread.h>
 // need anything else here?
+//int a[];
 int datagrabber(FILE *fptr, double *storage);
 void scann(FILE *fiptr, double *storage2, int epsmin,int sizes);
 //revision 4
