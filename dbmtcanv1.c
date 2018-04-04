@@ -52,8 +52,9 @@ int main(int argc, char *argv[]){
 		printf("check < tharg G= %d\n",G);
 	}
 	else
+	{
 		printf("The sky is falling\n");
-
+	}
 	printf("check = %d \n",check);
 	printf("tharg = %d \n",tharg);
 
