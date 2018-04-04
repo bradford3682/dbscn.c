@@ -24,7 +24,7 @@ int main(int argc, char *argv[]){
 	{ //4 arguments check
 		puts("Usage: infile outfile size");
         }
-
+// update 8
         else
 	{ //check if files exist
                 inPtr = fopen(argv[1],"r");
